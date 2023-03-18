@@ -1,7 +1,7 @@
 # Omezenec Webová stránka
 Toto je první webová stránka, kterou jsem vytvořil pomocí HTML a CSS. Každý někde začínal a můj začátek je tady.
 
-[Prohlédněte si web](https://fryerzabijak.github.io/omezenec-website/)
+<a href="https://fryerzabijak.github.io/omezenec-website/" target="_blank">Prohlédněte si web</a>
 
 ## Popis
 Webová stránka se jmenuje "Omezenec", což je můj pseudonym. Obsah stránky je sarkastický a vtipný, obsahuje různé nadpisy a odstavce, stejně jako tabulku a Google Maps iframe. 
