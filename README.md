@@ -18,6 +18,8 @@ Hlavním účelem stránky bylo především cvičit a experimentovat s HTML a C
 Tato webová stránka byla vytvořena pomocí:
 - HTML
 - CSS
+- CSS Animace
+- Google Maps iframe
 
 ## Screenshot
 ![Screenshot webové stránky](https://raw.githubusercontent.com/FryerZabijak/omezenec-website/master/fryerzabijak.github.io_omezenec-website_.png)
