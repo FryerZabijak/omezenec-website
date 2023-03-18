@@ -1,5 +1,5 @@
 # Omezenec Webová stránka
-Toto je první webová stránka, kterou jsem vytvořil pomocí HTML a CSS. Každý někde začínal a můj je tady.
+Toto je první webová stránka, kterou jsem vytvořil pomocí HTML a CSS. Každý někde začínal a můj začátek je tady.
 
 [Prohlédněte si web](fryerzabijak.github.io/omezenec-website/)
 
