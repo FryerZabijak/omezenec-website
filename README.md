@@ -20,4 +20,4 @@ Tato webová stránka byla vytvořena pomocí:
 - CSS
 
 ## Screenshot
-![Screenshot webové stránky](fryerzabijak.github.io/omezenec-website_.png)
+![Screenshot webové stránky](https://raw.githubusercontent.com/FryerZabijak/omezenec-website/master/fryerzabijak.github.io_omezenec-website_.png)
